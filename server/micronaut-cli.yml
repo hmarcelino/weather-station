@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.humanet
+---
+testFramework: spek
+sourceLanguage: kotlin
